@@ -1,0 +1,35 @@
+
+
+
+class Hari:
+
+    name       = "Srihari"
+    role       = ["Software Developer", "AI/ML Enthusiast"]
+    education  = "B.Tech / Computer Science"
+    location   = "Hyderabad, India 🇮🇳"
+
+    focus      = [
+        "Software Development",
+        "Python & Java",
+        "Machine Learning & AI",
+        "Problem Solving",
+        "Building practical projects"
+    ]
+
+    currently_learning = [
+        "Data Structures & Algorithms",
+        "Python",
+        "Java",
+        "Machine Learning",
+        "SQL"
+    ]
+
+    open_to = [
+        "Software Developer",
+        "AI/ML",
+        "Graduate & Entry-Level Roles"
+    ]
+
+    def say_hello(self):
+        return "Let's build something useful 🚀"
+```
